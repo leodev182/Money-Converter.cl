@@ -3,7 +3,7 @@
 }
 
 body {
-  height: 80vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -15,7 +15,7 @@ main div {
 }
 
 .graphic {
-  height: 65%;
+  height: 40%;
   width: 40%;
   margin-top: 30px;
   background: #fff;
